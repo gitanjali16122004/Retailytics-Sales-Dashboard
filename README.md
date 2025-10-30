@@ -127,12 +127,6 @@ It integrates sales performance tracking, trend analysis, and operational metric
 
 ---
 
-## 📸 9. Dashboard Preview
-
-
-`![Retailytics Dashboard Preview](Retailytics_Sales_Dashboard.png)`  
-
----
 
 ## 👩‍💻 Author
 
